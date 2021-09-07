@@ -1,6 +1,6 @@
 # esavdo
 
-A new Flutter project.
+esavdo platformasi
 
 ## Getting Started
 
