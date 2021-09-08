@@ -47,7 +47,7 @@ class _CalculationLayoutState extends State<CalculationLayout> {
                       fontSize: fontSize,
                   ),),
                     Text(
-                      '5500',
+                      '55000',
                       style: TextStyle(
                       fontSize: fontSize,
                   ),),
